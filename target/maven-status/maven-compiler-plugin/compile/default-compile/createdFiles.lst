@@ -1,0 +1,8 @@
+io\alanrgo\springbootstarter\LanchesApiApp.class
+io\alanrgo\springbootstarter\lanches\LancheJSON.class
+io\alanrgo\springbootstarter\lanches\LanchesServices.class
+io\alanrgo\springbootstarter\lanches\LanchesController.class
+io\alanrgo\springbootstarter\lanches\Lanche$Ingrediente.class
+io\alanrgo\springbootstarter\lanches\Lanche.class
+io\alanrgo\springbootstarter\lanches\LancheDB$Lanches.class
+io\alanrgo\springbootstarter\lanches\LancheDB.class

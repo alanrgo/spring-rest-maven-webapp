@@ -1,13 +1,13 @@
 package io.alanrgo.testes;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.*;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import io.alanrgo.springbootstarter.lanches.Lanche;
 import io.alanrgo.springbootstarter.lanches.LanchesServices;
 
-class Testes {
+public class Testes {
 	private LanchesServices lServices = new LanchesServices();
 	
 	@Test
