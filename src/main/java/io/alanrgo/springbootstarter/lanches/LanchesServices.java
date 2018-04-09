@@ -19,6 +19,9 @@ public class LanchesServices {
 	}
 	
 	public Float computePrice(Lanche lanche) {
+		if( db == null ) {
+			db = new LancheDB();
+		}
 		Float total = 0f;
 		
 		/* compute price without special offers */
